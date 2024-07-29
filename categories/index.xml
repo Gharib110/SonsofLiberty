@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Gharib Personal Blog</title>
-    <link>https://blog.alirezagharib.ir/categories/</link>
-    <description>Recent content in Categories on Gharib Personal Blog</description>
+    <title>Categories on Sons of Liberty</title>
+    <link>https://sonsofliberty.click/categories/</link>
+    <description>Recent content in Categories on Sons of Liberty</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <copyright>Alireza Gharib. All right reserved</copyright>
+    <copyright>Sons of Liberty. All right reserved</copyright>
     <lastBuildDate>Mon, 29 Jul 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://blog.alirezagharib.ir/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://sonsofliberty.click/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Proxy, VPN</title>
-      <link>https://blog.alirezagharib.ir/categories/proxy-vpn/</link>
+      <link>https://sonsofliberty.click/categories/proxy-vpn/</link>
       <pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://blog.alirezagharib.ir/categories/proxy-vpn/</guid>
+      <guid>https://sonsofliberty.click/categories/proxy-vpn/</guid>
       <description></description>
     </item>
   </channel>

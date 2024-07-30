@@ -7,8 +7,15 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Sons of Liberty. All right reserved</copyright>
-    <lastBuildDate>Mon, 29 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jul 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://sonsofliberty.click/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DNS, Acme.sh</title>
+      <link>https://sonsofliberty.click/categories/dns-acme.sh/</link>
+      <pubDate>Tue, 30 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://sonsofliberty.click/categories/dns-acme.sh/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Proxy, VPN</title>
       <link>https://sonsofliberty.click/categories/proxy-vpn/</link>

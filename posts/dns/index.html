@@ -5,7 +5,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<style type=text/css>body{font-family:monospace;}</style>
-	<title>Greetings !</title>
+	<title>DNS and Certificate</title>
 	
 	
 	<link rel="stylesheet" href="/css/style.css">
@@ -37,13 +37,30 @@
 	
 	<main>
 		<article>
-			<h1>Greetings !</h1>
-			<b><time>28.07.2024 00:00</time></b>
+			<h1>DNS and Certificate</h1>
+			<b><time>30.07.2024 00:00</time></b>
 		       
+		           <a href="/tags/dns-acme.sh-tls">dns, acme.sh, tls</a>
+        	       
 
 			<div>
-				<p>Hello this is a post for all people around the world who would like to learn about different areas and fields of
-amazing Computers World.</p>
+				<h1 id="acquiring-tls-certificate-and-key">Acquiring TLS Certificate and Key</h1>
+<p>If you want to run a website that supports HTTPS you should get tls certificate for it. I will not delve into the
+technical things behind the TLS and HTTPS protocol. Just Acquiring Free 3-months certificate.</p>
+<ul>
+<li>Clone this repo <a href="https://github.com/acmesh-official/acme.sh">acme.sh</a> and <code>cd</code> to that directory.</li>
+<li>Run <code>acme.sh  --issue --server letsencrypt -d 'qharib.ir' --dns --yes-I-know-dns-manual-mode-enough-go-ahead-please</code></li>
+<li>Follow the instructions to add the respective TXT record</li>
+<li>Run again with <code>--renew</code> except the <code>--issue</code> flag</li>
+<li>It is ready under <code>~/.acme.sh</code> directory</li>
+</ul>
+<h1 id="running-doh-plain-dns-and-dot">Running DOH, Plain DNS, and DOT</h1>
+<p>I use Adguard Home.</p>
+<ul>
+<li>Run <code>wget --no-verbose -O - https://raw.githubusercontent.com/AdguardTeam/AdGuardHome/master/scripts/install.sh | sh -s -- -v</code></li>
+<li>It will download everything that is necessary</li>
+<li>Just follow the instruction to access the panel on your localhost and modify its settings</li>
+</ul>
 
 			</div>
 		</article>

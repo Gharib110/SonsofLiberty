@@ -7,8 +7,15 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Sons of Liberty. All right reserved</copyright>
-    <lastBuildDate>Mon, 29 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jul 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://sonsofliberty.click/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DNS and Certificate</title>
+      <link>https://sonsofliberty.click/posts/dns/</link>
+      <pubDate>Tue, 30 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://sonsofliberty.click/posts/dns/</guid>
+      <description>How to install dns server anc acquire TLS Certificate ?</description>
+    </item>
     <item>
       <title>Install Common VPN Protocols</title>
       <link>https://sonsofliberty.click/posts/common-vpn-protocols/</link>

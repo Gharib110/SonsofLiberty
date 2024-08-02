@@ -7,8 +7,15 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Sons of Liberty. All right reserved</copyright>
-    <lastBuildDate>Tue, 30 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Aug 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://sonsofliberty.click/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Let&#39;s Deploy TON Site </title>
+      <link>https://sonsofliberty.click/posts/tonsite/</link>
+      <pubDate>Fri, 02 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://sonsofliberty.click/posts/tonsite/</guid>
+      <description>How to Deploy TON Website ?</description>
+    </item>
     <item>
       <title>DNS and Certificate</title>
       <link>https://sonsofliberty.click/posts/dns/</link>

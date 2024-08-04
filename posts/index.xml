@@ -10,6 +10,13 @@
     <lastBuildDate>Fri, 02 Aug 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://sonsofliberty.click/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>HAProxy as an upstream reverse proxy</title>
+      <link>https://sonsofliberty.click/posts/haproxy/</link>
+      <pubDate>Fri, 02 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://sonsofliberty.click/posts/haproxy/</guid>
+      <description>How to use HAProxy as an upstream Reverse Proxy ?</description>
+    </item>
+    <item>
       <title>Let&#39;s Deploy TON Site </title>
       <link>https://sonsofliberty.click/posts/tonsite/</link>
       <pubDate>Fri, 02 Aug 2024 00:00:00 +0000</pubDate>
